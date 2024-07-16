@@ -1,0 +1,42 @@
+.super_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 310px;
+}
+
+.main_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    // border: 1px solid grey;
+    padding: 5px;
+    height: 100%;
+    // margin-top: 10px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background-color: rgb(121, 113, 216);
+    width: 300px;
+    margin-top: 10px;
+}
+
+.button_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    margin-top: 10px;
+}
+
+.input_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+}
